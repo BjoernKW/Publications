@@ -1,4 +1,4 @@
 Publications
 ============
 
-Various publications, texts and articles
+Various publications, texts and articles by Björn Wilmsmann
